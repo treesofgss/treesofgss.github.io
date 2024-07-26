@@ -42,7 +42,7 @@ The website concept and design is by <a href="https://github.com/wavicles">Wavic
 <div class="sticky-top sticky-top-80">
 <h5>Join Us </h5>
 
-<p>You can contribute with your time, energy and money to maintain and improve <a target="_blank" href="https://github.com/treesofgss/treesofgss.github.io">Trees of GSS <i class="fab fa-github"></i></a>.</p>
+<p>You can contribute with your time, energy and money to maintain and improve <a target="_blank" href="">Trees of GSS <i class="fab fa-github"></i></a>.</p>
 <!--
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 -->
